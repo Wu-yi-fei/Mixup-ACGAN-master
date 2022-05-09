@@ -14,4 +14,4 @@ To train or test the nerual network, you need installing:
 * Numpy 1. 19. 2
 
 ## Pattern visualization of PV scenarios
-
+![](plot.png)
