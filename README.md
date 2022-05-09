@@ -9,9 +9,12 @@ Scenario generation is an essential method to offer a series of possible power s
 
 ## Language and Dependencies
 To train or test the nerual network, you need installing:
-* 64-bit Python 3. 7 installation
-* Tensorflow 2. 1. 0
-* Numpy 1. 19. 2
+* 64-bit Python 3. 7 installation,
+* Tensorflow 2. 1. 0,
+* Numpy 1. 19. 2.
 
 ## Pattern visualization of PV scenarios
 ![](plot.png)
+
+## Questions?
+For more questions about code and methods, please write to: wu_yi_fei0116@163.com.
