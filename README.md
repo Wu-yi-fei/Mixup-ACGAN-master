@@ -9,6 +9,9 @@ Scenario generation is an essential method to offer a series of possible power s
 
 ## Language and Dependencies
 To run the code, you need installing:
-*64-bit Python 3.7 installation
-*Tensorflow 2.1.0
-*16G RAM
+
+* 64-bit Python 3.7 installation
+* 
+* Tensorflow 2.1.0
+* 
+* 16G RAM
