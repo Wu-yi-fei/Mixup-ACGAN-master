@@ -12,3 +12,6 @@ To train or test the nerual network, you need installing:
 * 64-bit Python 3. 7 installation
 * Tensorflow 2. 1. 0
 * Numpy 1. 19. 2
+
+## Pattern visualization of PV scenarios
+
