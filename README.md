@@ -1,7 +1,6 @@
 # Mixup-ACGAN-master
 
-This repository contains the source code that implements the network described in the conference paper:
-
+This repository contains the source code that implements the network described in the conference paper for SCCSI 2022:
 "Controllable Photovoltaic Scenario Generation via Mixup-based Deep Generative Networks"
 
 ## Synopsis
@@ -17,4 +16,4 @@ To train or test the nerual network, you need installing:
 ![](plot.png)
 
 ## Questions?
-For more questions about code and methods, please write to: wu_yi_fei0116@163.com.
+For more questions about the code and method, please write to: wu_yi_fei0116@163.com.
